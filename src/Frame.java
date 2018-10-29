@@ -2,6 +2,8 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+//chcking git update
+
 public class Frame extends JPanel implements MouseListener 
 {
 	
